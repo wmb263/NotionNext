@@ -23,7 +23,7 @@
   HEO_HERO_TITLE_3: '"Hello world "',
   HEO_HERO_TITLE_4: 'WMB',
   HEO_HERO_TITLE_5: '热爱生活，知足常乐',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://wminb.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
