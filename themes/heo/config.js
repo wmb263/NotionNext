@@ -1,4 +1,4 @@
-const CONFIG = {
+   const CONFIG = {
   HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'www.wminb.top' },
-    { title: '访问文档中心获取更多帮助', url: 'www.wminb.top' }
+    { title: '欢迎来到我的博客', url: 'wminb.top' },
+    { title: '访问文档中心获取更多帮助', url: 'wminb.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
