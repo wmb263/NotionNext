@@ -18,8 +18,8 @@
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '分享效率',
+  HEO_HERO_TITLE_2: '与个人成长',
   HEO_HERO_TITLE_3: '"Hello world "',
   HEO_HERO_TITLE_4: 'WMB',
   HEO_HERO_TITLE_5: '热爱生活，知足常乐',
