@@ -52,7 +52,7 @@
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/292022634,
-  HEO_INFO_CARD_ICON2: 'fa-brands fa-bilibili',
+  HEO_INFO_CARD_ICON2: 'fab fa-bilibili',
   HEO_INFO_CARD_URL3: 'https://www.wminb.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
