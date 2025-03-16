@@ -51,7 +51,7 @@
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/292022634?spm_id_from=333.1007.0.0',
+  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/292022634,
   HEO_INFO_CARD_ICON2: 'fa-brands fa-bilibili',
   HEO_INFO_CARD_URL3: 'https://www.wminb.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
